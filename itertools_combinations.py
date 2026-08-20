@@ -19,3 +19,15 @@ for i in range(1, c + 1):
 
     for item in result:
         print(''.join(item))
+#input example hack 2
+#output
+A
+C
+H
+K
+AC
+AH
+AK
+CH
+CK
+HK
