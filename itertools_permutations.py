@@ -8,3 +8,15 @@ result.sort()
 for i in result:
     print(''.join(i))
 
+#output AC
+AH
+AK
+CA
+CH
+CK
+HA
+HC
+HK
+KA
+KC
+KH
