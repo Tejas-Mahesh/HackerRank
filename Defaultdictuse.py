@@ -18,3 +18,17 @@ for _ in range(m):
         print(*d[word])
     else:
         print(-1)
+
+#input
+Input (stdin)
+5 2
+a
+a
+b
+a
+b
+a
+b
+#Expected Output
+1 2 4
+3 5
