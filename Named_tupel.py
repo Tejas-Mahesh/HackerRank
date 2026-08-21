@@ -24,3 +24,15 @@ print(f"{total / n:.2f}")
 #Car(Price=100000, Mileage=30, Colour='Cyan', Class='Y')
 #>>> print xyz.Class
 #Y
+#input
+
+5
+#MARKS      CLASS      NAME       ID        
+92         2          Calum      1         
+82         5          Scott      2         
+94         2          Jason      3         
+55         8          Glenn      4         
+82         2          Fergus     5
+
+#Sample Output
+78.00
