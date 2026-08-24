@@ -30,3 +30,6 @@ if __name__ == '__main__':
     fptr.write(str(result) + '\n')
 
     fptr.close()
+
+#input 3
+#Output 6   how 3*2
