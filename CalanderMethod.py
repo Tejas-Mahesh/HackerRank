@@ -7,3 +7,5 @@ weekday = calendar.weekday(year, month, day)
 
 print(calendar.day_name[weekday].upper())
 
+#input 08 05 2015
+#output WEDNESDAY
