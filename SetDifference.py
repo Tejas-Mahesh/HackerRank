@@ -9,3 +9,13 @@ final=set1dif+set2dif
 final.sort()
 for i in final:
     print(i)
+#Input
+4
+2 4 5 9
+4
+2 4 11 12
+#Expected Output
+5
+9
+11
+12
