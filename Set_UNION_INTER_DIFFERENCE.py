@@ -30,3 +30,12 @@ m=int(input())
 set2=set(map(int,input().split()))
 total=set1.difference(set2)
 print(len(total))
+
+#symentric_difference
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+n=int(input())
+set1=set(map(int,input().split()))
+m=int(input())
+set2=set(map(int,input().split()))
+total=set1.symmetric_difference(set2)
+print(len(total))
