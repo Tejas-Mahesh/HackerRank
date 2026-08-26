@@ -15,3 +15,10 @@ print(len(final))
 
 set1.intersection(set2)
 set1.difference(set2)
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+n=int(input())
+set1=set(map(int,input().split()))
+m=int(input())
+set2=set(map(int,input().split()))
+total=set1.intersection(set2)
+print(len(total))
