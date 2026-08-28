@@ -19,3 +19,7 @@ if __name__ == '__main__':
             max_count = max(max_count, count)
         else:
             count = 0
+i#nput (stdin)
+5
+#Expected Output
+1
